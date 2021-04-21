@@ -1,6 +1,0 @@
-[submodule "directory_service"]
-	path = directory_service
-	url = https://github.com/spamelick/kyp-directory-service.git
-[submodule "kyp/directory_service"]
-	path = kyp/directory_service
-	url = https://github.com/spamelick/kyp-directory-service
